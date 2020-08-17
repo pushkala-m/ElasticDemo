@@ -1,1 +1,1 @@
-# A apringboot Elastic sample project implementing CRUD 
+# A springboot Elastic sample project implementing CRUD 
